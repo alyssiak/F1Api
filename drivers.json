@@ -1,0 +1,90 @@
+[
+  {
+    "number": 1,
+    "name": "M.Verstappen",
+    "team": "redbull",
+    "points": 575,
+    "country": "🇳🇱",
+    "style": "aggressive",
+    "teamImage": "redbull.png",
+    "driverImage": "max.png",
+    "numberImage": "МАК.png"
+  },
+  {
+    "number": 44,
+    "name": "L.Hamilton",
+    "team": "ferrari",
+    "points": 134,
+    "country": "🇬🇧",
+    "style": "balanced",
+    "teamImage": "ferrari.png",
+    "driverImage": "lewis.png",
+    "numberImage": "44.webp"
+  },
+  {
+    "number": 14,
+    "name": "F.Alonso",
+    "team": "astonMartin",
+    "points": 206,
+    "country": "🇪🇸",
+    "style": "balanced",
+    "teamImage": "aston.png",
+    "driverImage": "alonso.png",
+    "numberImage": "14.webp"
+  },
+  {
+    "number": 16,
+    "name": "C. Leclerc",
+    "team": "ferrari",
+    "points": 206,
+    "country": "🇲🇨",
+    "style": "aggressive",
+    "teamImage": "ferrari.png",
+    "driverImage": "charles.png",
+    "numberImage": "16.webp"
+  },
+  {
+    "number": 11,
+    "name": "S.Perez",
+    "team": "caddilac",
+    "points": 285,
+    "country": "🇲🇽",
+    "style": "aggressive",
+    "teamImage": "cadillac.png",
+    "driverImage": "Perez.webp",
+    "numberImage": "111.png"
+  },
+  {
+    "number": 22,
+    "name": "Y.Tsunoda",
+    "team": "redbull",
+    "points": 34,
+    "country": "🇯🇵",
+    "style": "rookie",
+    "teamImage": "redbull.png",
+    "driverImage": "tsunoda.png",
+    "numberImage": "22.webp"
+  },
+  {
+    "number": 77,
+    "name": "O.Bearman",
+    "team": "haas",
+    "points": 64,
+    "country": "🇬🇧",
+    "style": "rookie",
+    "teamImage": "haas.png",
+    "driverImage": "olli.png",
+    "numberImage": "87.webp"
+  },
+  {
+    "number": 33,
+    "name": "C.Sainz",
+    "team": "williams",
+    "points": 134,
+    "country": "🇪🇸",
+    "style": "balanced",
+    "teamImage": "williams.png",
+    "driverImage": "carlos.png",
+    "numberImage": "55.webp"
+  }
+]
